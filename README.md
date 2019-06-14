@@ -5,11 +5,7 @@
 ## Yifan's remarks
 
 ### citations / worked with / received help from
-Replace this paragraph with a solid accounting of your sources.
-People have become either lackadaisical or dishonest
-about crediting others for ideas and help. 
-If I grade this work, I will rely on this section as
-a complete listing for judging academic honesty.
+I have received help from George Zhou from the csDojo with guiding me through parts of the solution. I also worked with Emma Choi in class to discuss and work on the drawings. 
 
 This list may omit sources common to everyone in the course,
 including...
